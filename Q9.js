@@ -7,3 +7,8 @@ const gimli={
         },
   };
   console.log(gimli.greet());
+
+
+Output:
+
+Hi,my name is Gimli!
