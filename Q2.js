@@ -13,3 +13,11 @@ var library = [
     }
   }
   PrintOf();
+
+
+
+Output:
+
+Bill Gates , The Road Ahead , true
+Steve jobs , Walter Isaacson , true
+Suzanne Collins , Mockingjay: The Final Book of The Hunger Games , false
