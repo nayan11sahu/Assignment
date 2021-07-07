@@ -3,3 +3,8 @@ var new_arr=arr.map(function(num){
   return num/2;
 });
   console.log(new_arr);
+
+
+Output:
+
+[ 1, 28, 39, 17, 32.5 ]
