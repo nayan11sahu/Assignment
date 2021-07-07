@@ -8,3 +8,11 @@ function foo1() {
     }
     console.log(foo1());
     console.log(foo2());
+
+
+
+Output:
+
+{ bar: 'hello' }
+{ bar: 'hello' }
+both will give the same output
